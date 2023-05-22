@@ -1,2 +1,1 @@
-# Side-hustle-project
-my task
+I'm Egbo Nelson by name an SE student at ALX
